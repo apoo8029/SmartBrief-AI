@@ -1,0 +1,3 @@
+Model,Sample Count,ROUGE-1,ROUGE-2,ROUGE-L,Avg Inference Latency (s),Model Loading Time (s),Hardware
+facebook/bart-large-cnn,10,0.4279,0.2033,0.3223,25.04,8.02,CPU
+sshleifer/distilbart-cnn-12-6,10,0.4034,0.2005,0.3121,14.56,7.75,CPU
